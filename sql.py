@@ -1,4 +1,3 @@
-import config
 import sqlite3
 
 def create_table_agents():
